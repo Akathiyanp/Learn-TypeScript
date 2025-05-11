@@ -1,0 +1,14 @@
+TypeScript - From Beginner to Advanced
+
+Commands:
+    1) npm i -g typescript
+    2) tsc
+    3) npm init -y
+    4) npm i typescript --save-dev
+    5) npx tsc --init
+    6) Users\Learn TypeScript\   tsc    [ tsc is a command ]
+    7) cd code
+    8) node test.js
+
+
+
