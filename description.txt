@@ -9,6 +9,18 @@ Commands:
     6) Users\Learn TypeScript\   tsc    [ tsc is a command ]
     7) cd code
     8) node test.js
+    9) after setup package.json script => dev : "tsc && node test.js"  run =>  npm run dev  [I have some error, while doing these steps, so you may fix!]
+
+    1) npm init vite@latest project -- --template vanilla-ts 👍
+
+skip these commands 
 
 
+Let's Go to the concepts
 
+1) Primitive Types
+            <numbers>
+            <strings>
+            <booleans>
+            <null>
+            <undefined>
