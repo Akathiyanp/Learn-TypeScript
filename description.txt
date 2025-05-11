@@ -24,3 +24,6 @@ Let's Go to the concepts
             <booleans>
             <null>
             <undefined>
+
+2) Arrays & Tuples
+            
