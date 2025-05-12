@@ -3,54 +3,48 @@
         Interfaces allows us to interact with more complex objects and understand what properites they have
 */
 interface Person {
-    name: string;
-    age: number;
-    salary?: number;
-    // hello: () =>void;
-
+  name: string;
+  age: number;
+  salary?: number;
+  // hello: () =>void;
 }
-const person : Person = {
-    name: 'ak',
-    age: 21,
-    salary: 100000,
-    // hello: function(){
-    //     console.log(this.name + "says hi")
-    // }
-}
-person.age
-person.name
+const person: Person = {
+  name: "ak",
+  age: 21,
+  salary: 100000,
+  // hello: function(){
+  //     console.log(this.name + "says hi")
+  // }
+};
+person.age;
+person.name;
 // person.hello()
 
-
-
-interface Employee extends Person{
-    employeeId: number
+interface Employee extends Person {
+  employeeId: number;
 }
 
-const employee : Employee = {
-    
-    name: 'akathi',
-    age: 22,
-    salary: 1000000,
+const employee: Employee = {
+  name: "akathi",
+  age: 22,
+  salary: 1000000,
 
-   
-    employeeId: 1
-}
+  employeeId: 1,
+};
 
 interface Manager extends Employee, Person {
-    employees: Person[]
+  employees: Person[];
 }
 
 // const manager : Manager = {
 
 // }
 
-
-function getPerson(p:Person): erson{
-    return {
-        name: 'adg',
-        age: 21
-    }
+function getPerson(p: Person): Person {
+  return {
+    name: "adg",
+    age: 21,
+  };
 }
 
 // Use an interface when you want to type in object that has different properties
