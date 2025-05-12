@@ -34,3 +34,4 @@ Let's Go to the concepts
 
 4) Any, Unknown & Type Casts
 
+5) Optional chaining and Bang
