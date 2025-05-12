@@ -37,3 +37,5 @@ Let's Go to the concepts
 5) Optional chaining and Bang
 
 6) Basic function Types
+
+7) Advanced function types
