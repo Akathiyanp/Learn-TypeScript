@@ -39,3 +39,6 @@ Let's Go to the concepts
 6) Basic function Types
 
 7) Advanced function types
+
+8) Interfaces
+
