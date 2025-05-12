@@ -26,4 +26,8 @@ Let's Go to the concepts
             <undefined>
 
 2) Arrays & Tuples
-            
+        
+3) Enums & Literals
+
+        <numeric enums>
+        <string enums>
