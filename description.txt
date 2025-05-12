@@ -31,3 +31,6 @@ Let's Go to the concepts
 
         <numeric enums>
         <string enums>
+
+4) Any, Unknown & Type Casts
+
