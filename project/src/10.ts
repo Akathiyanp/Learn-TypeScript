@@ -62,5 +62,9 @@ makeSound(cat)
 
         By using an abstract class, you are going to be writing a behavior that will be reuse by
         one of the concrete classes.
+
+        It simplifies our  program and it allows us to treat different objects as if they were
+        the same type
+            Making things quite a bit more flexible
         
        */
