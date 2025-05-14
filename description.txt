@@ -50,3 +50,5 @@ Let's Go to the concepts
 
 12) Generics
 
+13) Type Aliases (Advanced Types)
+
