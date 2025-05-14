@@ -55,3 +55,7 @@ Let's Go to the concepts
 14) Union & Intersection
 
 15) Type Guards
+
+16) Discriminated Unions
+
+17) Utility Types
