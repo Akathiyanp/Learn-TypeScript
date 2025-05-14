@@ -46,4 +46,7 @@ Let's Go to the concepts
 
 10) Classes & Interfaces
 
-11) Static Attributes & Methods         
+11) Static Attributes & Methods             
+
+12) Generics
+
