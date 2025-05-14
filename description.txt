@@ -53,3 +53,5 @@ Let's Go to the concepts
 13) Type Aliases (Advanced Types)
 
 14) Union & Intersection
+
+15) Type Guards
