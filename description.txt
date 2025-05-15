@@ -58,4 +58,4 @@ Let's Go to the concepts
 
 16) Discriminated Unions
 
-17) Utility Types
+17) Utility Types           
